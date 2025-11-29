@@ -93,7 +93,7 @@ Upon running the application, you will see a welcome screen followed by the main
 
 **Muhammad Zaid Hassan**
 
-  * *Project Type:* DSA Semester Project / Portfolio
+  * *Project Type:* DSA Semester Project
   * *Language:* C++
 
 -----
